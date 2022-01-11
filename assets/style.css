@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+}
+
+nav.nav-bg {
+  background-color: #630000;
+}
+
+.beranda {
+  min-height: 74vh;
+}
+
+footer {
+  bottom: 0;
+}
